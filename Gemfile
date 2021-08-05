@@ -1,2 +1,7 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll"
+gem "basic"
+
+group :jekyll_plugins do
+end
